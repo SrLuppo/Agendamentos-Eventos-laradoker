@@ -29,7 +29,7 @@ services:
   db:
     build: .docker/mysql
     command: --innodb-use-native-aio=0 --default-authentication-plugin=mysql_native_password
-    container_name: novo-db
+    container_name: novo
     tty: true
     ports:
       - "3307:3306"
