@@ -48,7 +48,9 @@ header {
 #navbar a:hover {
     color: #f2a340;
 }
-
+#description-container {
+    margin-top: 30px;
+}
 
 /* footer */
 
