@@ -191,6 +191,18 @@ header {
     display: flex;
 }
 
+/* Dashboard */
+.dashboard-title-container {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.dashboard-title-container th {
+    width: 25%;
+}
+
+
+
 #description-container {
     margin-top: 30px;
 }
